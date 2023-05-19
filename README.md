@@ -1,6 +1,6 @@
 # RB-Harris-G Plots
 
-Each R script contains a unique data set and generates the following plots for each:
+Each R script contains a unique data set and generates the following plots:
 
 1. Survival function for the model
 2. ECDF
